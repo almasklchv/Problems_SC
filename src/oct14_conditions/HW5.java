@@ -3,6 +3,7 @@ package oct14_conditions;
 import java.util.*;
 // 5. Если целое число m делится нацело на целое число n, то вывести на экран частное от целочисленного деления m на n,
 // в противном случае вывести сообщение "not completely divisible"
+// автор кода Алмас Киличов
 
 public class HW5 {
     public static void main(String[] args) {

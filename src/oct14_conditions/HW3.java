@@ -2,6 +2,7 @@ package oct14_conditions;
 
 import java.util.*;
 // 3. Даны два целых числа a и b. Меньшее из двух чисел удвоить, а большее - утроить.
+// автор кода Алмас Киличов
 
 public class HW3 {
     public static void main(String[] args) {
